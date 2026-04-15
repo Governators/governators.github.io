@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Swerve Notes"
-permalink: /swerve-notes
+layout: default
+title: Swerve Notes
+nav_order: 2
 ---
 
 **hello**
