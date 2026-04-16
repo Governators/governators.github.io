@@ -1,9 +1,3 @@
----
-layout: home
-title: Home
-nav_order: 1
----
+# Governators — Team 3361
 
-# Governators Docs
-
-Welcome to the 3361 documentation site.
+[Robot2026 Code](https://governators.github.io/Robot2026)
