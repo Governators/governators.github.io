@@ -1,4 +1,4 @@
-title: "Governators"
 exclude:
   - README.md
   - Gemfile
+  - Gemfile.lock
